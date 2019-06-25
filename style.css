@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 header{
     background-color:#ebebeb;
     height: 100px;
@@ -87,4 +88,95 @@ h2{
     color: #777;
     background-color: #ebebeb;
     font-size: 16px;
+=======
+header{
+    background-color:#ebebeb;
+    height: 100px;
+    width: 100%;
+    margin: 0 auto;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777;
+    background-color: #777;
+    width: 960px;
+    font-size: 18px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+header{
+    background-color: #ebebeb;
+    font-size: 60pt;
+}
+nav{
+    background-color: #ebebeb;
+}
+section{
+    background-color:#ebebeb;
+    float: left;
+    width: 55%;
+    padding-top: 25px;
+}
+aside{
+    background-color:#ebebeb;
+    width: 40%;
+    float: right;
+    height: 275px;
+    padding-top: 25px;
+    box-sizing: border-box;
+}
+footer{
+    margin-left: auto;
+    margin-right: auto;
+    width: 960px;
+    background-color: #ebebeb;
+    text-align: center;
+    clear: both;
+    padding: 10px 0;
+    display: inline-block;
+    margin-top: 10px;
+}
+article{
+    color: #ebebeb;
+    background:#777;
+    float: left;
+    margin: 10px;
+    width: 95%;
+    padding: 20px;
+    box-sizing: border-box;
+}
+h1{
+    color: #777;
+    background: #ebebeb;
+    font-size: 16px;
+}
+p{
+    color: #777;
+    background: #ebebeb;
+    padding: 10px 0;
+    margin: 10px auto;
+}
+.headers h1{
+    display: inline-block;
+}
+.headers h2{
+    display: inline-block;
+}
+.headers h3{
+    display: inline-block;
+}
+h3{color: #777;
+background: #ebebeb;
+font-size: 16px;
+}
+.headers{
+    background-color: #ebebeb;
+    margin-top: 10px;
+}
+h2{
+    color: #777;
+    background-color: #ebebeb;
+    font-size: 16px;
+>>>>>>> 85fd7130c3f178784b0127842e5c63a22b4bcee7
 }
