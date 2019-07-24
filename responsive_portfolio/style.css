@@ -51,7 +51,9 @@ h3 {
 }
 
 /* header */
-
+#cardsBox{
+  padding-top: 110px;
+}
 #masthead {
   position: fixed;
   z-index: 99;
@@ -61,6 +63,7 @@ h3 {
   color: #ffffff;
   background: #ffffff;
   border-bottom: 2px solid #cccccc;
+  padding-bottom: 2px;
 }
 
 #logo {
